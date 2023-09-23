@@ -33,6 +33,10 @@ app.get("/", function (req, res) {
       id: 6,
       name: "prrionti",
     },
+    {
+      id: 7,
+      name: "akash",
+    },
   ]);
 });
 
