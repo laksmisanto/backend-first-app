@@ -11,11 +11,11 @@ app.get("/", function (req, res) {
   res.json([
     {
       id: 1,
-      name: "laksmi santo",
+      name: "santo",
     },
     {
       id: 2,
-      name: "prrionti",
+      name: "korim",
     },
     {
       id: 3,
@@ -23,11 +23,15 @@ app.get("/", function (req, res) {
     },
     {
       id: 4,
-      name: "santo",
+      name: "laksmi santo",
     },
     {
       id: 5,
       name: "rohim",
+    },
+    {
+      id: 6,
+      name: "prrionti",
     },
   ]);
 });
